@@ -1,0 +1,16 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+# AS 16097 Hlkomm GmbH Geofeed,lastupdated (rfc3339): 2024-01-11T01:12:28-08:00
+80.64.176.0/20,DE,DE-SN,Leipzig,
+85.232.0.0/19,DE,DE-SN,Leipzig,
+85.239.96.0/19,DE,DE-SN,Leipzig,
+94.101.32.0/20,DE,DE-SN,Leipzig,
+109.104.32.0/19,DE,DE-SN,Leipzig,
+146.0.96.0/19,DE,DE-SN,Leipzig,
+185.19.52.0/22,DE,DE-SN,Leipzig,
+185.80.120.0/22,DE,DE-SN,Leipzig,
+212.122.32.0/19,DE,DE-SN,Leipzig,
+213.187.64.0/19,DE,DE-SN,Leipzig,
+217.69.224.0/19,DE,DE-SN,Leipzig,
+217.69.238.0/26,DE,DE-HE,Leipzig,
+217.69.238.64/26,DE,DE-SH,KIEL,
+2a02:238::/32,DE,DE-SN,Leipzig,
